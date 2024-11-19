@@ -117,3 +117,21 @@ body {
     align-items: center;
 }
 
+.section3 {
+    background-color: #e5e7eb;
+    padding: 96px 220px 96px 220px;
+}
+
+.quote {
+    font-size: 36px;
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    color: #4f5763;
+}
+
+.quote-name {
+    font-family: Roboto, sans-serif;
+    text-align: end;
+    font-weight: 800;
+}
+
