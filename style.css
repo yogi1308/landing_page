@@ -135,3 +135,49 @@ body {
     font-weight: 800;
 }
 
+.section4 {
+    background-color: #3882F6;
+    margin: 80px 144px 80px 144px;
+    border-radius: 8px;
+}
+
+.section4-content {
+    padding: 24px 112px 40px 112px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.section4-header {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.section4-text p:nth-of-type(2) {
+    color: #bacded;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.section4-content button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    align-self: flex-end;
+    height: fit-content;
+    padding: 6px 32px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.section4-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
